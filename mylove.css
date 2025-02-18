@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(235, 212, 206);
+    /* background-image: url(Photo/20250218_192351.jpg); */
+    background-position: cover;
+}
+.divinity{
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+font-size: medium;
+font-weight: bold;
+font-style: oblique;
+}
+.pic{
+    width: 180px;
+}
